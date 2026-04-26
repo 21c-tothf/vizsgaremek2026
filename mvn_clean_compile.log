@@ -1,0 +1,24 @@
+﻿[INFO] Scanning for projects...
+[INFO] 
+[INFO] ------------------------< com.example:usedcars >------------------------
+[INFO] Building usedcars 0.0.1-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- clean:3.2.0:clean (default-clean) @ usedcars ---
+[INFO] Deleting C:\Users\21c_makaram.NYIRSZIKSZI\Desktop\tothferenc\target
+[INFO] 
+[INFO] --- resources:3.4.0:resources (default-resources) @ usedcars ---
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] Copying 1 resource from src\main\resources to target\classes
+[INFO] 
+[INFO] --- compiler:3.11.0:compile (default-compile) @ usedcars ---
+[INFO] Changes detected - recompiling the module! :source
+[WARNING] File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+[INFO] Compiling 63 source files with javac [debug target 21] to target\classes
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  4.362 s
+[INFO] Finished at: 2026-04-15T13:00:57+02:00
+[INFO] ------------------------------------------------------------------------
